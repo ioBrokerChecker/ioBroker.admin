@@ -3,7 +3,7 @@
 
 ### 1.6.11 (2017-01-21)
 * (bluefox) Support of web extensions
-* (bluefox) Fix error in expert mode on adapter tab
+* (bluefox) Fix error in expert mode on adapter tab 
 
 ### 1.6.9 (2016-12-19)
 * (bluefox) Fix problem with the enums editing
